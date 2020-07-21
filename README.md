@@ -1,4 +1,4 @@
-# My_Diploma_Project(python_basics)
+# MyDiplomaProject(python_basics)
 
 <p>This is a drones-fighting game where a player has to write his own drones logic so they defeat the enemy and gather all the resources on the map.</p>
 <p>The aim of the project was to analyze the logic of the basic drones (code) kept in the file named devastator.py 
